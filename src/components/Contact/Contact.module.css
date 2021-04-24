@@ -1,0 +1,10 @@
+.contact{
+    background-color: #181818;
+    height: 100px;
+    width: 100%;
+    z-index: 999;
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
